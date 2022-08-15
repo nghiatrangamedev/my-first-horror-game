@@ -7,6 +7,6 @@
 - Các chức năng chính:  
 + Người chơi sẽ di chuyển bằng các phím mũi tên hoặc WASD
 + Nhìn xung quanh bằng chuột
-+ Cố gắng chạy thoát khỏi 
++ Cố gắng chạy thoát khỏi con ma
 
 - Link chơi thử trên Unity: https://play.unity.com/mg/other/webgl-builds-178073
